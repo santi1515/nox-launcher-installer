@@ -11,7 +11,7 @@
 **NoxLauncher** is a powerful **Open Source** launcher created by **Krayson Studio** and its main developers, to provide secure access and fast to a minecraft launcher. 
 
 > [!NOTE]  
-> **This is the repository of the launcher <br> This is a project of Krayson Studios**
+> **This is the repository of the launcher NOT the noxlauncher repository**
 
   
 ## 💻 Oficial Repository 

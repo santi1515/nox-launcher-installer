@@ -5,7 +5,7 @@
 <h1 align="center">NoxLauncher Installer</h1>
 
 <p align="center">
-   <img alt= "NoxLauncher Home page" src= "https://github.com/KraysonStudios/NoxLauncher/blob/master/github-assets/home.png" style= "width: 75%; height: 55%;">
+   <img alt= "NoxLauncher Home page" src= "https://github.com/santi1515/nox-launcher-installer/blob/main/Nox_launcher_installer.png?raw=true" style= "width: 75%; height: 55%;">
 </p>
 
 **NoxLauncher** is a powerful **Open Source** launcher created by **Krayson Studio** and its main developers, to provide secure access and fast to a minecraft launcher. 

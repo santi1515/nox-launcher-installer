@@ -1,0 +1,1 @@
+# nox-launcher-installer

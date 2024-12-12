@@ -8,14 +8,12 @@
    <img alt= "NoxLauncher Home page" src= "https://github.com/santi1515/nox-launcher-installer/blob/main/Nox_launcher_installer.png?raw=true" style= "width: 75%; height: 55%;">
 </p>
 
-**NoxLauncher** is a powerful **Open Source** launcher created by **Krayson Studio** and its main developers, to provide secure access and fast to a minecraft launcher. 
-
 > [!NOTE]  
-> **This is the repository of the launcher NOT the noxlauncher repository**
+> **This is the repository of the installer NOT the noxlauncher repository**
 
   
 ## 💻 Oficial Repository 
- Here >> [NoxLauncher](https://github.com/KraysonStudios/NoxLauncher)
+ Here >> [NoxLauncher](https://github.com/KraysonStudios/NoxLauncher) By Krayson Studios
 
 <!---
 Discord Markdown Badge API
